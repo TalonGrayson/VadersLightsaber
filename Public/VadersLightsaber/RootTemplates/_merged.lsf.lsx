@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!-- Darth Vader's Lightsaber -->
+				<node id="GameObjects">
+					<!-- Required -->
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="MapKey" type="FixedString" value="a342c7d0-15d1-4433-87f5-4364c327fefa" />
+					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+
+					<!-- Overrides -->
+					<attribute id="EquipmentTypeID" type="guid" value="377de72b-0712-49f3-bc58-aa64251b80ea" />
+					<attribute id="Name" type="LSString" value="TLN_Lightsabers_Vader" />
+					<attribute id="Stats" type="FixedString" value="TLN_Lightsabers_Vader" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4655a366g8b6fg49f7g875dgad9670eb0c4e" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd3b702a2gb5d3g4843gbd3ag26589cb8ee51" version="1" />
+					<attribute id="VisualTemplate" type="FixedString" value="6867c7b1-5423-44dd-a65f-6be38143d97b" />
+					<attribute id="Icon" type="FixedString" value="TLN_Icons_Lightsaber_Vader_Red" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

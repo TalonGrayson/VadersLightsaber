@@ -1,0 +1,7 @@
+new entry "PASSIVE_DARK_LORDS_BLESSING"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "_PASSIVES"
+data "DisplayName" "h384bee6dg7777g4888gbdb1g1b9d8d5006b6;1"
+data "StatusPropertyFlags" "ApplyToDead"
+data "StatusEffect" "85286b4e-52e6-426d-a48c-0c18ac7bb8d4"

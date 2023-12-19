@@ -1,0 +1,67 @@
+function PassiveIntimidationDC()
+    return context.Source.GetPassiveSkill(Skill.Intimidation)
+end
+
+function CharacterLevel(entity)
+    entity = entity or context.Source;
+    return entity.Level;
+end
+
+function SkillPerLevel(skill, entity)
+    entity = entity or context.Source;
+    Skill(skill, entity.Level);
+    return true;
+end
+
+function CharacterLevelBetween(lowerLevel, upperLevel)
+    CharacterLevelGreaterThan(lowerLevel) and not CharacterLevelGreaterThan(upperLevel)
+end
+
+function ScaleEnchantmentByXEveryYLevels(enchantmentIncrease, levelStep)
+    currentLevel = CurrentLevel()
+    currentEnchantment = math.ceiling(CurrentLevel()/levelStep)*enchantmentIncrease
+    return currentEnchantment
+end
+
+function NumberOfEnemiesInRange(distance, target, source)
+    return true;
+    return Skill(Intimidation,8);
+    local distance = distance or 1.5
+    local target = target or context.Target
+    local source = source or context.Source
+
+    local enemies = GetEnemiesWithinRange(distance, target, source)
+
+    if enemies == nil then
+        return Skill(Intimidation,67);
+    end
+
+    return Skill(Intimidation,40);
+end
+
+function test1()
+    return false;
+end
+
+function test2()
+    return true;
+end
+
+function NumberOfAffectedEnemiesInRange(status, distance, target, source)
+    distance = distance or 1.5
+    target = target or context.Target
+    source = source or context.Source
+
+    local statusCount = 0;
+
+    local enemies = GetEnemiesWithinRange(distance, target, source);
+
+    if enemies ~= nil then
+        for _, entity in ipairs(enemies.Enemies) do
+            if HasStatus(status, entity) then
+                statusCount = statusCount + 1
+            end
+        end
+    end
+    return statusCount;
+end

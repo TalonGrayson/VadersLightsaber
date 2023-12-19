@@ -1,0 +1,10 @@
+{
+    "emmylua.spell.dict": [
+        "Lightsaber",
+        "unsub",
+        "Savegame"
+    ],
+    "Lua.diagnostics.globals": [
+        "GetHostCharacter"
+    ]
+}

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<!-- Containers -->
+	<content contentuid="h699fbdf8gecbeg4a15gb602g8fb9eafa9847" version="1">Camtono</content>
+	<content contentuid="h9169be36gc466g4d74g9c5ag7429008d1506" version="1">A secure container, not of this realm.</content>
+
 	<!-- Lightsabers -->
 	<content contentuid="h4655a366g8b6fg49f7g875dgad9670eb0c4e" version="1">Darth Vader's Lightsaber</content>
 	<content contentuid="hd3b702a2gb5d3g4843gbd3ag26589cb8ee51" version="1">Not as clumsy or random as a crossbow; an elegant weapon for a more civilized age. Once wielded by the great Sith Lord, Darth Vader.</content>

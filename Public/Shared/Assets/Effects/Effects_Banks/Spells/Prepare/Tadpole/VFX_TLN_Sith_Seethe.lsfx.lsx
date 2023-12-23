@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="1" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
-	<region id="Dependencies">
+	<!-- <region id="Dependencies">
 		<node id="Dependencies">
 			<children>
 				<node id="DependentResource">
@@ -39,10 +39,10 @@
 				</node>
 			</children>
 		</node>
-	</region>
+	</region> -->
 	<region id="Effect">
 		<node id="Effect">
-			<attribute id="Duration" type="float" value="2" />
+			<attribute id="Duration" type="float" value="9" />
 			<children>
 				<node id="EffectComponents">
 					<children>
@@ -2298,15 +2298,15 @@
 				<node id="Phases">
 					<children>
 						<node id="Phase">
-							<attribute id="Duration" type="float" value="0.5" />
+							<attribute id="Duration" type="float" value="3" />
 							<attribute id="PlayCount" type="int32" value="1" />
 						</node>
 						<node id="Phase">
-							<attribute id="Duration" type="float" value="0.1" />
+							<attribute id="Duration" type="float" value="3" />
 							<attribute id="PlayCount" type="int32" value="-1" />
 						</node>
 						<node id="Phase">
-							<attribute id="Duration" type="float" value="0.9" />
+							<attribute id="Duration" type="float" value="3" />
 							<attribute id="PlayCount" type="int32" value="1" />
 						</node>
 					</children>

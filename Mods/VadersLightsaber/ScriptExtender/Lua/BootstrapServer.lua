@@ -105,11 +105,3 @@ end
 Ext.Osiris.RegisterListener("SavegameLoaded", 0, "after", function() isLightsaberEquipped(GetHostCharacter()) end);
 
 Ext.Osiris.RegisterListener("Equipped", 2, "after", function(item, character) isLightsaberEquipped(character) end);
-
-local function CurrentLevel(entity)
-    entity = entity or context.Source
-    _P(entity.Level);
-    return entity.Level
-end
-
-Ext.RegisterConsoleCommand("currentLevel", CurrentLevel);

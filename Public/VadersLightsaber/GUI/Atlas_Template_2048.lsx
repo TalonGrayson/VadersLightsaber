@@ -9,7 +9,7 @@
                     <attribute id="Width" type="int32" value="64" />
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="LSString" value="Assets\Textures\Icons\TLN_VadersLightsaber.dds" />
+                    <attribute id="Path" type="LSString" value="Assets\Textures\Icons\TLN_Icons_VadersLightsaber.dds" />
                     <attribute id="UUID" type="FixedString" value="c998dcf4-3448-4941-a0a2-885f78c34a90" />
                 </node>
                 <node id="TextureAtlasTextureSize">
@@ -30,7 +30,7 @@
                     <attribute id="V2" type="float" value="0.03125" />
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="TLN_Icons_Aspect_of_Vader" />
+                    <attribute id="MapKey" type="FixedString" value="TLN_Icons_Vader" />
                     <attribute id="U1" type="float" value="0.03125" />
                     <attribute id="U2" type="float" value="0.0625" />
                     <attribute id="V1" type="float" value="0.0" />

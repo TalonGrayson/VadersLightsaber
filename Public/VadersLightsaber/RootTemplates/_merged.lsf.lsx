@@ -21,6 +21,34 @@
 					<attribute id="Icon" type="FixedString" value="TLN_Icons_Lightsaber_Vader_Red" />
 				</node>
 
+			<!-- Camtono 2? -->
+				<!-- Osi.CreateAt("90b6aa3a-4e0b-4601-bbd6-af289877624f",55,18,-355,0,0,"") -->
+				<node id="GameObjects">
+					<!-- Required -->
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="MapKey" type="FixedString" value="90b6aa3a-4e0b-4601-bbd6-af289877624f" />
+					<attribute id="ParentTemplateId" type="FixedString" value="49aba79d-0be8-42f0-9302-3761b3527fa4" />
+
+					<!-- Overrides -->
+					<attribute id="Name" type="LSString" value="CONT_TLN_Camtono" />
+					<attribute id="Stats" type="FixedString" value="TLN_Camtono" />
+					<attribute id="CanBeImprovisedWeapon" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h699fbdf8gecbeg4a15gb602g8fb9eafa9847" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9169be36gc466g4d74g9c5ag7429008d1506" version="1" />
+					<attribute id="VisualTemplate" type="FixedString" value="90146e76-97d5-4482-a9f5-963aba116538" />
+					<attribute id="Icon" type="FixedString" value="TLN_Icons_Lightsaber_Vader_Red" />
+					<attribute id="InventoryType" type="uint8" value="43" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="TLN_Camtono" /> <!-- Changed -->
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
 			<!-- Camtono -->
 				<!-- Unless otherwise stated, everything here is a direct copypasta of 73882c7c-7624-4b62-93db-c9387b991113 -->
 				<!-- Osi.CreateAt("ba7e2fc3-1796-45e6-a52f-aa82c020898a",55,18,-355,0,0,"") -->
@@ -34,8 +62,8 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="ba7e2fc3-1796-45e6-a52f-aa82c020898a" /> <!-- Changed -->
 					<attribute id="Name" type="LSString" value="CONT_TLN_Camtono" /> <!-- Changed -->
-					<attribute id="ParentTemplateId" type="FixedString" value="c35645db-08dc-420a-b8af-bfbf03c3207c" />
-					<attribute id="PhysicsTemplate" type="FixedString" value="b696ed1a-5c50-3586-722a-011a92d408a1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="49aba79d-0be8-42f0-9302-3761b3527fa4" />
+					<!-- <attribute id="PhysicsTemplate" type="FixedString" value="b696ed1a-5c50-3586-722a-011a92d408a1" /> -->
 					<attribute id="ReadinessFlags" type="uint32" value="12" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Basket" />
 					<attribute id="Type" type="FixedString" value="item" />

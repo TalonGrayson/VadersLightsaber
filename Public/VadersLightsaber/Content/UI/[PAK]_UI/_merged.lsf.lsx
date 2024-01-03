@@ -29,7 +29,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="c998dcf4-3448-4941-a0a2-885f78c34a90" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="TLN_Icons_Saber_Deflection" />
+					<attribute id="Name" type="LSString" value="TLN_Icons_Saber_Reflection" />
 					<attribute id="SRGB" type="bool" value="True" />
 					<attribute id="SourceFile" type="LSString" value="Public/VadersLightsaber/Assets/Textures/Icons/TLN_Icons_VadersLightsaber.dds" />
 					<attribute id="Streaming" type="bool" value="True" />
@@ -40,7 +40,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="c998dcf4-3448-4941-a0a2-885f78c34a90" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="TLN_Icons_Lightsaber_Illumination" />
+					<attribute id="Name" type="LSString" value="TLN_Icons_Vaders_Lightsaber_Illumination" />
 					<attribute id="SRGB" type="bool" value="True" />
 					<attribute id="SourceFile" type="LSString" value="Public/VadersLightsaber/Assets/Textures/Icons/TLN_Icons_VadersLightsaber.dds" />
 					<attribute id="Streaming" type="bool" value="True" />

@@ -49,7 +49,7 @@
 						<!-- Cigarette smoke -->
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="0.7768747" />
-							<attribute id="ID" type="guid" value="7bb2ff53-140c-4fca-8ed1-f4da9c4a37d9" />
+							<attribute id="ID" type="guid" value="7bb2ff53-140c-4fca-8ed1-f4da9c4a37d9" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="ParticleSystem" />
 							<attribute id="StartTime" type="float" value="0.2916992" />
 							<attribute id="Track" type="uint32" value="1" />

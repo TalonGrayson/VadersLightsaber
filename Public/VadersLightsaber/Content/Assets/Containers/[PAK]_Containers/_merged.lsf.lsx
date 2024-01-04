@@ -5,7 +5,7 @@
 		<node id="Dependencies">
 			<children>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="4969558c-dd6b-4a1d-8a5d-c7c9bbbbb080" />
+					<attribute id="Object" type="FixedString" value="4969558c-dd6b-4a1d-8a5d-c7c9bbbbb080" /> <!-- Vanilla -->
 				</node>
 			</children>
 		</node>
@@ -23,7 +23,7 @@
 					<attribute id="BoundsMin" type="fvec3" value="-0.4178306 -0.001235028 -0.4178305" />
 					<attribute id="Center" type="fvec3" value="-5.960464E-08 0.6107372 7.450581E-08" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="90146e76-97d5-4482-a9f5-963aba116538" />
+					<attribute id="ID" type="FixedString" value="90146e76-97d5-4482-a9f5-963aba116538" /> <!-- Unique -->
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="4" />
@@ -63,7 +63,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="e98f736c-3e2e-49a7-ae7e-549cbbcb6867" /> <!-- Correct -->
 					<attribute id="Name" type="LSString" value="TLN_MAT_Camtono" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Base/Base_AlphaTest.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/VadersLightsaber/Assets/Materials/Base/Base_AlphaTest.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="36028797018963968" />
 					<children>
 					<!-- BM -->

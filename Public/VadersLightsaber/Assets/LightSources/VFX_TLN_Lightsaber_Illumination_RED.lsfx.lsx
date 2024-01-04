@@ -5,7 +5,7 @@
 		<node id="Dependencies">
 			<children>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="a51c5bbb-a2f4-4ea9-80b3-e05d43f92d62" />
+					<attribute id="Object" type="FixedString" value="a51c5bbb-a2f4-4ea9-80b3-e05d43f92d62" /> <!-- Vanilla -->
 				</node>
 			</children>
 		</node>
@@ -18,7 +18,7 @@
 					<children>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="2" />
-							<attribute id="ID" type="guid" value="3ac05c5a-8d11-49c5-9e34-03e0bfec034a" />
+							<attribute id="ID" type="guid" value="f9c3185c-40c3-4575-88f2-b1e8704758ec" />
 							<attribute id="Name" type="LSString" value="BoundingSphere" />
 							<attribute id="StartTime" type="float" value="0" />
 							<attribute id="Track" type="uint32" value="0" />
@@ -56,7 +56,7 @@
 						</node>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="0.6" />
-							<attribute id="ID" type="guid" value="9a8e3d04-10c8-4510-86a4-d8b82345f992" />
+							<attribute id="ID" type="guid" value="ff95f249-8f93-4b4a-a0a6-6818b590ad4b" />
 							<attribute id="Name" type="LSString" value="Light" />
 							<attribute id="StartTime" type="float" value="0" />
 							<attribute id="Track" type="uint32" value="1" />
@@ -230,7 +230,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Light GUID" />
 											<attribute id="FullName" type="FixedString" value="Appearance.Light UUID" />
 											<attribute id="Type" type="uint8" value="10" />
-											<attribute id="Value" type="FixedString" value="a51c5bbb-a2f4-4ea9-80b3-e05d43f92d62" />
+											<attribute id="Value" type="FixedString" value="a51c5bbb-a2f4-4ea9-80b3-e05d43f92d62" /> <!-- Vanilla -->
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="RPM" />

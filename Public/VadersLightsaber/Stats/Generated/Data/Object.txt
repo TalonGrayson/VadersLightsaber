@@ -1,7 +1,7 @@
 new entry "TLN_Camtono"
 type "Object"
 using "_Container"
-data "RootTemplate" "0a36c68a-f9f7-4a50-b92e-8aa8c6a64ac4"
+data "RootTemplate" "ba7e2fc3-1796-45e6-a52f-aa82c020898a"
 data "ValueOverride" "7"
 data "Weight" "0.01"
 data "Rarity" "Rare"

@@ -4,7 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
-				<!-- Unless otherwise stated, everything here is a direct copypasta of 2c5bca7e-8649-4217-9ebb-52b20a506e99 -->
+				<!-- Unless otherwise stated, everything here is a direct copypasta of 2c5bca7e-8649-4217-9ebb-52b20a506e99 (Vanilla) -->
                 <node id="GameObjects">
 					<!-- <attribute id="CanBeMoved" type="bool" value="True" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
@@ -17,7 +17,7 @@
 					<attribute id="LevelName" type="FixedString" value="TUT_Avernus_C" />
 					<attribute id="MapKey" type="FixedString" value="f835abc5-4494-4cc4-bab1-d3c4fb6e740f" /> <!-- Changed -->
 					<attribute id="Name" type="LSString" value="S_TUT_TLN_Camtono" /> <!-- Changed -->
-					<attribute id="TemplateName" type="FixedString" value="73882c7c-7624-4b62-93db-c9387b991113" />
+					<attribute id="TemplateName" type="FixedString" value="73882c7c-7624-4b62-93db-c9387b991113" /> <!-- Vanilla -->
 					<attribute id="Type" type="FixedString" value="item" />
 					<!-- <attribute id="WalkOn" type="bool" value="False" />
 					<attribute id="WalkThrough" type="bool" value="True" /> -->
@@ -31,7 +31,7 @@
 											<attribute id="MapKey" type="FixedString" value="TUT_Avernus_C" />
 											<children>
 												<node id="Layer">
-													<attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" />
+													<attribute id="Object" type="guid" value="63deda87-5c21-83d2-61d4-8920bda260da" /> <!-- Vanilla -->
 												</node>
 											</children>
 										</node>

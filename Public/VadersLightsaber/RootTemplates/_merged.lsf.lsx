@@ -17,7 +17,7 @@
 					<attribute id="Stats" type="FixedString" value="TLN_Lightsabers_Vader" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h4655a366g8b6fg49f7g875dgad9670eb0c4e" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hd3b702a2gb5d3g4843gbd3ag26589cb8ee51" version="1" />
-					<attribute id="VisualTemplate" type="FixedString" value="6867c7b1-5423-44dd-a65f-6be38143d97b" />
+					<attribute id="VisualTemplate" type="FixedString" value="a23957ec-70ec-49e7-8f98-d5b27b8ee469" />
 					<attribute id="Icon" type="FixedString" value="TLN_Icons_Lightsaber_Vader_Red" />
 				</node>
 

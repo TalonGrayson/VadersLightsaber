@@ -17,7 +17,7 @@
 					<attribute id="Looping" type="bool" value="True" />
 					<attribute id="Name" type="LSString" value="VFX_TLN_Sith_Seethe" />
 					<attribute id="Radius" type="float" value="3.464102" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Effects/Effects_Banks/Spells/Prepare/Tadpole/VFX_TLN_Sith_Seethe.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/VadersLightsaber/Assets/Effects/Effects_Banks/Spells/Prepare/Tadpole/VFX_TLN_Sith_Seethe.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
 					<children>
 						<node id="Dependencies">

@@ -5,37 +5,37 @@
 		<node id="Dependencies">
 			<children>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+					<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="b4b3fb6e-1b77-9431-a0ad-0503c7e28ac7" />
+					<attribute id="Object" type="FixedString" value="b4b3fb6e-1b77-9431-a0ad-0503c7e28ac7" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="36c6fe7b-25b9-19fe-a285-d750d070b6ff" />
+					<attribute id="Object" type="FixedString" value="36c6fe7b-25b9-19fe-a285-d750d070b6ff" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="77d89dee-c494-82bb-072f-d07aefc8c984" />
+					<attribute id="Object" type="FixedString" value="77d89dee-c494-82bb-072f-d07aefc8c984" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="4f5b525d-cdf7-1d04-2db5-d1f6e28c013b" />
+					<attribute id="Object" type="FixedString" value="4f5b525d-cdf7-1d04-2db5-d1f6e28c013b" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="69dbcfde-0522-e9f3-7313-ba567f2ab484" />
+					<attribute id="Object" type="FixedString" value="69dbcfde-0522-e9f3-7313-ba567f2ab484" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="0bd6700c-cb83-f377-534c-414c9a2ef3e8" />
+					<attribute id="Object" type="FixedString" value="0bd6700c-cb83-f377-534c-414c9a2ef3e8" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="d02f30fb-e343-446c-ef67-892476186bf0" />
+					<attribute id="Object" type="FixedString" value="d02f30fb-e343-446c-ef67-892476186bf0" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="f27d3008-f32c-70a6-141b-ca3cf39373a0" />
+					<attribute id="Object" type="FixedString" value="f27d3008-f32c-70a6-141b-ca3cf39373a0" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="cd9cf2d3-95f4-8aea-7eac-0dc0c8910eb4" />
+					<attribute id="Object" type="FixedString" value="cd9cf2d3-95f4-8aea-7eac-0dc0c8910eb4" /> <!-- Vanilla -->
 				</node>
 				<node id="DependentResource">
-					<attribute id="Object" type="FixedString" value="6dc25a49-6e2e-4e5f-b616-38761768f8eb" />
+					<attribute id="Object" type="FixedString" value="6dc25a49-6e2e-4e5f-b616-38761768f8eb" /> <!-- Vanilla -->
 				</node>
 			</children>
 		</node>
@@ -48,7 +48,7 @@
 					<children>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.5" />
-							<attribute id="ID" type="guid" value="0697819f-2804-4699-8ffc-f171cfeb7d96" />
+							<attribute id="ID" type="guid" value="23d9274b-c322-47ca-b81c-f4efed8c5e20" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="BoundingSphere" />
 							<attribute id="StartTime" type="float" value="0" />
 							<attribute id="Track" type="uint32" value="0" />
@@ -87,7 +87,7 @@
 
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="0.8" />
-							<attribute id="ID" type="guid" value="d8df9a85-3604-4798-a5da-321086d226bc" />
+							<attribute id="ID" type="guid" value="d8df9a85-3604-4798-a5da-321086d226bc" /> <!-- Vanilla -->
 							<attribute id="Name" type="LSString" value="Billboard" />
 							<attribute id="StartTime" type="float" value="0" />
 							<attribute id="Track" type="uint32" value="2" />
@@ -364,7 +364,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Material GUID" />
 											<attribute id="FullName" type="FixedString" value="Appearance.Material GUID" />
 											<attribute id="Type" type="uint8" value="10" />
-											<attribute id="Value" type="FixedString" value="fb21ca3c-3b37-b5b8-86cd-c7feaead109d" />
+											<attribute id="Value" type="FixedString" value="fb21ca3c-3b37-b5b8-86cd-c7feaead109d" /> <!-- Vanilla -->
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="Uniform Scale" />
@@ -596,7 +596,7 @@
 						<!-- Light -->
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.040856" />
-							<attribute id="ID" type="guid" value="784ba954-f13b-4f44-b218-d8339edac761" />
+							<attribute id="ID" type="guid" value="1cca9339-5b96-4d1e-8051-d67cbe0c4135" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="Light" />
 							<attribute id="StartTime" type="float" value="0.240856" />
 							<attribute id="Track" type="uint32" value="0" />
@@ -752,7 +752,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Light GUID" />
 											<attribute id="FullName" type="FixedString" value="Appearance.Light UUID" />
 											<attribute id="Type" type="uint8" value="10" />
-											<attribute id="Value" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+											<attribute id="Value" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" /> <!-- Vanilla -->
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="RPM" />
@@ -986,7 +986,7 @@
 						</node>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.044448" />
-							<attribute id="ID" type="guid" value="cbdcdcfc-4f89-4ce1-a864-0f9e2381978b" />
+							<attribute id="ID" type="guid" value="48425b11-bebd-46c5-86ca-6e54a04f84a7" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="Light" />
 							<attribute id="StartTime" type="float" value="0.2444479" />
 							<attribute id="Track" type="uint32" value="1" />
@@ -1134,7 +1134,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Light GUID" />
 											<attribute id="FullName" type="FixedString" value="Appearance.Light UUID" />
 											<attribute id="Type" type="uint8" value="10" />
-											<attribute id="Value" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+											<attribute id="Value" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" /> <!-- Vanilla -->
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="RPM" />
@@ -1368,7 +1368,7 @@
 						</node>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="0.4915384" />
-							<attribute id="ID" type="guid" value="77916cd5-a7fd-437d-a9f5-221287a9cd0b" />
+							<attribute id="ID" type="guid" value="9a2fae0c-932c-45a8-a0a8-43c3213fc429" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="ParticleSystem" />
 							<attribute id="StartTime" type="float" value="0" />
 							<attribute id="Track" type="uint32" value="1" />
@@ -3518,7 +3518,7 @@
 						</node>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="0.4889048" />
-							<attribute id="ID" type="guid" value="54e911e9-9582-4c65-9d9d-c95e8371dcae" />
+							<attribute id="ID" type="guid" value="bbb06952-3180-4059-b2b6-3b29e43d7618" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="ParticleSystem" />
 							<attribute id="StartTime" type="float" value="0.003181478" />
 							<attribute id="Track" type="uint32" value="1" />
@@ -7425,7 +7425,7 @@
 						</node>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="0.4851755" />
-							<attribute id="ID" type="guid" value="4684f28a-5b3a-4731-b146-98a3c7dec7bf" />
+							<attribute id="ID" type="guid" value="c7e73d29-eabe-4fe5-82fb-d1f89308d370" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="ParticleSystem" />
 							<attribute id="StartTime" type="float" value="0" />
 							<attribute id="Track" type="uint32" value="1" />
@@ -11552,7 +11552,7 @@
 						</node>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1.018779" />
-							<attribute id="ID" type="guid" value="2e2be5dc-ad03-4a97-a197-61e2991eb912" />
+							<attribute id="ID" type="guid" value="27979e37-9e66-428e-98b5-5bf7dc08a56b" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="ParticleSystem" />
 							<attribute id="StartTime" type="float" value="0.07292481" />
 							<attribute id="Track" type="uint32" value="1" />
@@ -12552,7 +12552,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Material GUID" />
 											<attribute id="FullName" type="FixedString" value="Particle.Appearance.Material GUID" />
 											<attribute id="Type" type="uint8" value="10" />
-											<attribute id="Value" type="FixedString" value="0bd6700c-cb83-f377-534c-414c9a2ef3e8" />
+											<attribute id="Value" type="FixedString" value="0bd6700c-cb83-f377-534c-414c9a2ef3e8" /> <!-- Vanilla -->
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="Attached Effect Only" />
@@ -13590,7 +13590,7 @@
 						<!-- Cigarette smoke -->
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="0.7768747" />
-							<attribute id="ID" type="guid" value="5e3720cb-ebd7-4f2f-b943-0a9d579080fa" />
+							<attribute id="ID" type="guid" value="ff43d838-93db-4cb1-9232-7596ef6965d7" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="ParticleSystem" />
 							<attribute id="StartTime" type="float" value="0.2916992" />
 							<attribute id="Track" type="uint32" value="1" />
@@ -15836,7 +15836,7 @@
 						</node>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="1" />
-							<attribute id="ID" type="guid" value="a8198087-4867-4063-87f4-b66ebe61f692" />
+							<attribute id="ID" type="guid" value="7d375fb6-047a-4e86-91cc-86b9abdcb185" /> <!-- Unique -->
 							<attribute id="Name" type="LSString" value="PostProcess" />
 							<attribute id="StartTime" type="float" value="0" />
 							<attribute id="Track" type="uint32" value="1" />

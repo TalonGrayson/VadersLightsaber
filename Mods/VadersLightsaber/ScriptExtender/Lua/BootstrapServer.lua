@@ -6,7 +6,7 @@ local tickHandler = -1;
 
 local function extendLightsaberBlade(weapon, character)
     _P("Lightsaber is not sheathed");
-    Ext.Entity.Get(weapon).ServerItem.Item.Template.VisualTemplate = "6867c7b1-5423-44dd-a65f-6be38143d97b"
+    Ext.Entity.Get(weapon).ServerItem.Item.Template.VisualTemplate = "a23957ec-70ec-49e7-8f98-d5b27b8ee469"
     ApplyStatus(weapon, "TLN_LIGHTSABER_LIGHT", -1, 1);
     ApplyStatus(character, "SNEAKING_CLEAR", -1, 1);
 end

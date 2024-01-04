@@ -11,10 +11,10 @@
 	<!-- PASSIVES -->
 
 	<content contentuid="hd7952321g04edg483agadedg2377c64479bf" version="1">Dark Lord's Blessing</content>
-	<content contentuid="h2cb4eb9dgec88g4722ga514g6cad4ac17aab" version="1">Lord Vader watches over you in combat. On killing an enemy, each remaining enemy within [1] of you give you +1 Intimidation. You also gain access to Lord Vader's Presence unless no enemies were in range.</content>
+	<content contentuid="h2cb4eb9dgec88g4722ga514g6cad4ac17aab" version="1">Lord Vader watches over you in combat. Once per combat, on killing an enemy, Vader grants you with his presence in the Force.</content>
 	
 	<content contentuid="h1901c749g7d66g4c57gadacg88c657399674" version="1">Lord Vader's Presence</content>
-	<content contentuid="h17a4d8abg3b3eg455bg82aegf2ac9000c66e" version="1">Project Darth Vader's darkside in a radius of [1]. Enemies will be struck with fear unless they succeed a Wisdom saving throw against your Intimidation. For every enemy who is struck with fear, you gain 1 Strength for 2 turns.</content>
+	<content contentuid="h17a4d8abg3b3eg455bg82aegf2ac9000c66e" version="1">Project Darth Vader's darkside in a radius of [1]. Enemies will be struck with fear unless they succeed a Wisdom saving throw against your Intimidation.</content>
 	
 	<content contentuid="h53bdb7a3g1933g46f9g8b23g3eb3c8a72a01" version="1">Fear and Dead Men</content>
 	<content contentuid="hd02b94ddg8e36g49d1g9d1ag05267b526d52" version="1">All you are surrounded by is fear. And dead men. Every Frightened enemy within [1] of you adds 1 to your Strength.</content>

@@ -103,7 +103,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="TLN_Camtono_BM" /> <!-- Correct -->
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Containers/Generic/Camtono/Textures/TLN_Camtono_BM.dds" /> <!-- Correct -->
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Containers/Generic/Camtono/Textures/TLN_Container_Camtono_BM.dds" /> <!-- Correct -->
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="TLN_Camtono_BM" /> <!-- Correct -->
 					<attribute id="Type" type="int32" value="1" />
@@ -119,7 +119,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="TLN_Camtono_NM" /> <!-- Correct -->
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Containers/Generic/Camtono/Textures/TLN_Camtono_NM.dds" /> <!-- Correct -->
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Containers/Generic/Camtono/Textures/TLN_Container_Camtono_NM.dds" /> <!-- Correct -->
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="TLN_Camtono_NM" /> <!-- Correct -->
 					<attribute id="Type" type="int32" value="1" />
@@ -135,7 +135,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="TLN_Camtono_PM" /> <!-- Correct -->
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Containers/Generic/Camtono/Textures/TLN_Camtono_PM.dds" /> <!-- Correct -->
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Containers/Generic/Camtono/Textures/TLN_Container_Camtono_PM.dds" /> <!-- Correct -->
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="TLN_Camtono_PM" /> <!-- Correct -->
 					<attribute id="Type" type="int32" value="1" />
